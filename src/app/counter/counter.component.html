@@ -1,5 +1,9 @@
-<div>
-    <button (click)="decrement()">-</button>
-    {{count}}
-    <button (click)="increment()">+</button>
+<div class="counter">
+    <button (click)="decrement()">
+        Decrement
+    </button>
+    <input type="text" [value]="count">
+    <button (click)="increment()">
+        Increment
+    </button>
 </div>
