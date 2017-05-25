@@ -2,8 +2,7 @@
   "name": "angular-seed",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Angular2 tutorial, Todd Motto",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^6.0.45",
@@ -25,7 +24,7 @@
     "raw-loader": "^0.5.1",
     "rimraf": "^2.5.2",
     "style-loader": "^0.13.1",
-    "typescript": "~2.0.10",
+    "typescript": "~2.2.1",
     "webpack": "2.2.1",
     "webpack-dev-server": "2.4.1",
     "webpack-merge": "^3.0.0"
